@@ -1,8 +1,8 @@
 ## Analyse Reuirements
-   Collect Requirements
-   Choose the Right Charts 
-   Draw Mockups 
-   Choose Colors
+     Collect Requirements
+     Choose the Right Charts 
+     Draw Mockups 
+     Choose Colors
 ## Build The Data Source
      Connect Data or buding two dashb nd customers.
      Create Data Model Rename Fields/Tables • 
