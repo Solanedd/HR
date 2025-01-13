@@ -1,25 +1,25 @@
-Analyse Reuirements
+## Analyse Reuirements
 Collect Requirements
 Choose the Right Charts 
 Draw Mockups 
- Choose Colors
- Build The Data Source
+Choose Colors
+## Build The Data Source
  Connect Data or buding two dashb nd customers.
  Create Data Model Rename Fields/Tables • 
  Check Data Types nents • 
  Understand Data 
-Building Charts •
+## Building Charts •
  Create Calculated Fields & Test 
-  Build Chart
-  Format
+ Build Chart
+## Format
      Remove Lines & Grids 
      Clean up Axis & Headers
      Coloring 
- Building Dashboard
+## Building Dashboard
  Draw Mockups for Containers 
  Buld Container Structure 
  Put all charts together
-  Format
+## Format
       Distributed Content "Evenly" 
       Format Colors. Sizes..etc 
       Fit "Entire View 
