@@ -1,4 +1,4 @@
-## Analyse Reuirements
+## Analyse Requirements
      Collect Requirements
      Choose the Right Charts 
      Draw Mockups 
