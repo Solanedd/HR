@@ -4,7 +4,7 @@
      Draw Mockups 
      Choose Colors
 ## Build The Data Source
-     Connect Data or buding two dashb nd customers.
+     Connect Data 
      Create Data Model Rename Fields/Tables • 
      Check Data Types nents • 
      Understand Data 
