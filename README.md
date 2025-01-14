@@ -40,7 +40,7 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
     Compare total employees between headquarters (HQ) and branches (New York is the HQ)
     Show the distribution of employees by city and state.
 ## Demographics
-The Demographics section should offer insights into the composition of the workforce, including:
+    The Demographics section should offer insights into the composition of the workforce, including:
 
     Present the gender ratio in the company.
     Visualize the distribution of employees across age groups and education levels.
@@ -50,7 +50,7 @@ The Demographics section should offer insights into the composition of the workf
 ## Income
     The income analysis section should focus on salary-related metrics, including:
 
-   Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
+    Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
     Present how the age correlate with the salary for employees in each department.
 ## Employee Records View
 
